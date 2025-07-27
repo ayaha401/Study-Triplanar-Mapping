@@ -1,6 +1,4 @@
-# AyahaUnityDevelopRepositoryTemplate
-作ったUnity関係のリポジトリのテンプレート
+# Study-Triplanar-Mapping
+Triplanar MappingをUnityで実装した
 
-# 導入方法
-# 使い方
-# 不具合
+<img width="792" height="443" alt="Pasted image 20250727050429" src="https://github.com/user-attachments/assets/54816bb5-f1a6-45df-9b1b-95c3a6f3a890" />
